@@ -1,0 +1,7 @@
+google-genai
+requests
+selenium
+mysql-connector-python
+python-dotenv
+scrapy
+pypdf
